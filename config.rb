@@ -1,7 +1,7 @@
 ###
 # Blog settings
 ###
-
+require 'tzinfo'
 # Time.zone = "UTC"
 
 activate :blog do |blog|
